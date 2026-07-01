@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Cebu Weddings &amp; Events Planner by Jacky Acebes — Luxury Boutique Wedding Curation" width="100%" />
+  <span style="font-size: 12px; font-family: monospace; letter-spacing: 0.35em; color: #c5a880; font-weight: bold; display: block; margin-bottom: 8px;">LUXURY BOUTIQUE WEDDING CURATION</span>
+  <h1 style="font-family: serif; font-weight: 500; letter-spacing: 0.05em;">Cebu Weddings &amp; Events Planner</h1>
+  <span style="font-size: 10px; font-family: monospace; letter-spacing: 0.4em; color: #9e7a4b; font-weight: bold; display: block;">BY JACKY ACEBES</span>
+
+  <p style="font-style: italic; max-width: 600px; margin: 16px auto;">
+    "Synonymous with elegance, attention to detail, and exceptional service in the wedding industry."
+  </p>
 </div>
 
 ---
